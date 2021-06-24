@@ -1,6 +1,7 @@
 # BootCamp04-backend
 
-1. Fibonacci
+1. Fibonacci  
+![title](screenshots/fibo.png)
 1. Variables and Declaration  
 ![title](screenshots/variableDeclaration.png)
 1. Nullables  
