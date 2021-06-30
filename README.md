@@ -8,3 +8,6 @@
 ![title](screenshots/nullables.png)
 1. Value Types    
 ![title](screenshots/valueTypes.png)
+1.  
+1. AnonymousType  
+![title](screenshots/anonymousType.png)
