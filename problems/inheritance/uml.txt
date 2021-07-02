@@ -1,0 +1,29 @@
+@startuml
+skinparam groupInheritance 1
+
+class Transport {
+  +string ability
+  +int speedLimit
+  +int peopleCapacity
+  +string brand
+  Transport()
+}
+
+class AirTranport{
+  +int maximunHeight
+  AirTranport()
+}
+
+class LandTransport{
+  +int numerWheels
+  LandTransport()
+}
+
+class AquaticTransport {
+  AquaticTransport()
+}
+
+Transport <|-- AirTranport
+Transport <|-- LandTransport 
+Transport <|-- AquaticTransport
+@enduml
