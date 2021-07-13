@@ -8,7 +8,6 @@ namespace inheritance
         {
             LandTransport toyota = new LandTransport("Toyota", 100, 8, 4);
             AirTranport boing = new AirTranport("Boing", 300, 600, 4);
-
             toyota.print();
             boing .print();
         }
