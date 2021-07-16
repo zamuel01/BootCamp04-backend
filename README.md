@@ -24,4 +24,10 @@
 
 
 1. inheritance  
-![title](screenshots/inheritance.png)
+![title](screenshots/inheritance.png)  
+
+1. Extension method    
+![title]()
+
+1. MyLinqExtensions  
+![title](screenshots/myLinqExtensions.png)
